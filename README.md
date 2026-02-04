@@ -1,64 +1,70 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=mohamed_ak&fontSize=60&animation=fadeIn&repeat=false" width="100%" />
+# <img src="https://media.tenor.com/Sd0yZ6iq0cQAAAAi/waving-hand.gif" width="50px"> Hi, I'm Abu Maha! 👋
 
 <div align="center">
 
-### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Abu-maha&color=blueviolet&style=for-the-badge)
 
-### I'm mohamed_ak ✨
-
-**Full Stack Developer** | **Software Engineer** | **iOS Developer**
+🚀 **Full-Stack Developer** | 🌟 **Open Source Enthusiast** | 💡 **Problem Solver**
 
 ---
 
-<div align="center">
+### 🔧 Tech Stack
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamed_ak&color=blueviolet&style=for-the-badge)
+<div>
 
-<a href="https://github.com/mohamed_ak">
-  <img src="https://raw.githubusercontent.com/mohamed_ak/mohamed_ak/main/images/github.gif" width="50px" />
-</a>
-
-**1** followers · **1** following · **1** stars
+| **Backend** | **Frontend** | **iOS** | **Tools & Databases** |
+|------------|--------------|---------|----------------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D7?style=for-the-badge&logo=swift&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02589B?style=for-the-badge&logo=flutter&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+| | | | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 📊 GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D7?style=for-the-badge&logo=swift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Abu-maha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu-maha&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-maha&layout=compact&theme=radical&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abu-maha&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-### 📫 Contact Me
+### 🏆 GitHub Achievements
 
 <div align="center">
 
-📧 **mohamed.abdelazeem333@gmail.com**
+![GitHub Trophy](https://github-trophy.vercel.app/?username=Abu-maha&theme=radical&no-frame=true&row=1&column=7)
 
 </div>
 
 ---
 
-### 🌐 Socials
+### 📫 Connect With Me
 
 <div align="center">
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed_ak)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+### 📝 Quote
+
+<div align="center">
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 </div>
 
@@ -66,14 +72,6 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mohamed_ak/mohamed_ak/main/github-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+⭐ **Thanks for visiting my profile!** ⭐
 
 </div>
