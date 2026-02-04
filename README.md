@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Abu-maha/Abu-maha/main/wave.gif" width="30px"> Hi, I'm Abu Maha! 👋
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Hi,%20I'm%20Abu%20Maha!%20👋&fontSize=40" />
 
 <div align="center">
 
@@ -65,16 +65,6 @@
 <div align="center">
 
 ![Abu-maha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abu-maha&theme=rogue&hide_border=true)
-
-</div>
-
----
-
-### 🐍 Snake Animation
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/Abu-maha/Abu-maha/main/github-snake.svg)
 
 </div>
 
