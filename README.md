@@ -24,6 +24,30 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+
+#### CVGenius - AI-Powered Resume Builder
+A full-stack application that helps job seekers create professional resumes with AI-powered content suggestions, ATS optimization, and beautiful templates.
+
+**Tech Stack:** React, TypeScript, Node.js, Express, TailwindCSS, Groq AI, Supabase
+
+**Key Features:**
+- AI-powered resume content suggestions using Groq's Llama models
+- ATS compatibility checker to ensure resumes pass automated screening
+- Multiple professionally designed resume templates
+- PDF export with custom styling
+- Cover letter generator
+- Secure user authentication with Supabase
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://cvgenius-demo.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abu-maha/Abu-maha)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
