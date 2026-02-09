@@ -11,12 +11,15 @@
 ### 🔧 Tech Stack
 
 <div>
+## 🛠 Tech Stack
+
 | **Frontend** | **Backend** | **Database & Auth** | **AI & Tools** |
 |-------------|-------------|--------------------|---------------|
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![DeepSeek](https://img.shields.io/badge/DeepSeek-7C3AED?style=for-the-badge) |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge) | ![Supabase Auth](https://img.shields.io/badge/Auth-00E599?style=for-the-badge&logo=supabase&logoColor=black) | ![TipTap](https://img.shields.io/badge/TipTap-000000?style=for-the-badge) |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge) | ![Supabase%20Auth](https://img.shields.io/badge/Auth-00E599?style=for-the-badge&logo=supabase&logoColor=black) | ![TipTap](https://img.shields.io/badge/TipTap-000000?style=for-the-badge) |
 | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |  |  | ![Zustand](https://img.shields.io/badge/Zustand-593D88?style=for-the-badge) |
+
 
 
 
